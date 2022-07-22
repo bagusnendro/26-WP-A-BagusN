@@ -1,2 +1,2 @@
-# Mini-Project-INCO
+## Submission kelas Web Programming
 Repository to save the project
