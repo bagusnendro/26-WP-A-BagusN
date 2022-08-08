@@ -1,0 +1,34 @@
+HTML, CSS, Bootstrap 5/
+|
+|
+|====> index.html (Halaman Landing Page)
+|
+|
+|====> asset/ (Folder penyimpanan asset)
+|       \
+|        \_____ images/ (Folder penyimpanan gambar)
+|               \
+|                \____chef/ (Folder penyimpanan gambar chef)
+|                 \
+|                  \
+|                   \__restaurant/ (Folder penyimpanan gambar tempat restoran)
+|
+|====> script/ (Folder penyimpanan JavaScript untuk dijalankan)
+|       \
+|        \_____ script.js (Script local untuk dijalankan)
+|
+|====> style/ (Folder penyimpanan style)
+        \
+         \_____Bootstrap/ (Folder penyimpanan tema default dari Bootstrap 5)
+
+
+
+
+
+
+
+=====================================================================
+
+
+
+=====================================================================
